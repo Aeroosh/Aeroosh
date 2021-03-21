@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aeroosh
+- 👀 I’m interested in video games and developpement
+- 🌱 I’m currently learning lua
